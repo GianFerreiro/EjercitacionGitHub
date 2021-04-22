@@ -1,0 +1,13 @@
+[{
+    "titulo" : "Pasaear al perro",
+    "estado" : "pendiente"
+},
+{
+    "titulo" : "Practicar JS",
+    "estado" : "pendiente"
+},
+{
+    "titulo" : "entrenar",
+    "estado" : "terminado"
+}
+]
